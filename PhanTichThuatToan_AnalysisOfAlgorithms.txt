@@ -1,0 +1,2 @@
+Phân tích nhầm đánh giá hiệu suất của thuật toán và chương trình, bao gồm THỜI GIAN VÀ KHÔNG GIAN.
+Phân tích thuật toán quan trọng là vì giúp dự đoán được thời gian, không gian thực hiện, đưa ra cách làm tối ưu nhất.
