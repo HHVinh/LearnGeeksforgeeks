@@ -24,6 +24,5 @@ int main() {
 
     int result = cost(arr, n);
     printf("Chi phí tối thiểu là: %d\n", result);
-
     return 0;
 }
