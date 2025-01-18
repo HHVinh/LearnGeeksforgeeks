@@ -44,7 +44,6 @@ int main() {
     // Nhập kích thước mảng
     printf("Enter the number of elements in the array: ");
     scanf("%d", &n);
-
     int arr[n];
     // Nhập các phần tử mảng
     printf("Enter the array elements: ");
